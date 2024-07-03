@@ -1,0 +1,1 @@
+requerimentos, diseño, verificacion y mantenimiento
